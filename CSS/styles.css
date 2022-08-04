@@ -1,0 +1,16 @@
+body {
+    background-color:rgb(205, 228, 228);
+}
+hr {
+    color: grey;
+    border-style: none;
+    height: 2px;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+    align-self: center;
+}
+h3
+{
+    color: chocolate;
+}
